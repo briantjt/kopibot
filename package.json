@@ -1,0 +1,25 @@
+{
+  "name": "hawkerbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "firebase": "^7.6.2",
+    "moment": "^2.24.0",
+    "node-telegram-bot-api": "^0.40.0",
+    "nodemon": "^2.0.2",
+    "pdf-parse": "^1.1.1",
+    "sequelize": "^5.21.3",
+    "sequelize-cli": "^5.5.1",
+    "sqlite3": "^4.1.1"
+  }
+}
